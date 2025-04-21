@@ -10,7 +10,7 @@ func sum(a int, b int) int {
 	return a + b
 }
 
-func main() {
+func variables() {
 	// variables
 	var a int = 10 //a:=10 short hand
 	var b float64 = 20.5
