@@ -4,7 +4,7 @@ import "fmt"
 
 //methods related to arrays,slices, maps
 
-func main() {
+func methods() {
 
 	//arrays
 
